@@ -1,6 +1,6 @@
 # Projeto-Cidades-Inteligentes
 
-Top 10 Cidades Inteligentes de São Paulo
+Top 10 Cidades Inteligentes de São Paulo.
 
 Projeto realizado como atividade do curso Profissão do Instituto PROA, utilizando HTML e CSS.
 
