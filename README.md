@@ -1,2 +1,7 @@
 # Projeto-Cidades-Inteligentes
-Repositório com atividades da UC de UI/UX Frontend do PROA, abordando conceitos de HTML e CSS para construção de páginas web.
+
+Top 10 Cidades Inteligentes de São Paulo.
+
+Projeto realizado como atividade do curso Profissão do Instituto PROA, utilizando HTML e CSS.
+
+O objetivo é apresentar as 10 cidades mais inteligentes do estado de São Paulo, com informações gerais e principais pontos turísticos de cada uma.
