@@ -13,5 +13,5 @@ O objetivo é apresentar as 10 cidades mais inteligentes do estado de São Paulo
 2. Acesse diretamente pelo link em qualquer navegador:
 
 ```bash
-
+https://larissasantos2.github.io/projeto-cidades-inteligentes/
 
