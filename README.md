@@ -6,8 +6,6 @@ Projeto realizado como atividade do curso Profissão do Instituto PROA, utilizan
 
 O objetivo é apresentar as 10 cidades mais inteligentes do estado de São Paulo, com informações gerais e principais pontos turísticos de cada uma.
 
-## 🚀 Como Visualizar
-
 ## 👀 Como Visualizar
 1. Clone este repositório ou faça o download dos arquivos.  
 2. Acesse diretamente pelo link em qualquer navegador:
