@@ -8,7 +8,10 @@ O objetivo é apresentar as 10 cidades mais inteligentes do estado de São Paulo
 
 ## 🚀 Como Visualizar
 
-1. Acesse diretamente pelo link:
+## 👀 Como Visualizar
+1. Clone este repositório ou faça o download dos arquivos.  
+2. Acesse diretamente pelo link em qualquer navegador:
 
 ```bash
-https://larissasantos2.github.io/projeto-cidades-inteligentes/
+[https://larissasantos2.github.io/cine-on/](https://larissasantos2.github.io/projeto-cidades-inteligentes/)
+
